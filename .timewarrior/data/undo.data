@@ -1,0 +1,229 @@
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200409T142434Z","tags":["hack","linux"]}
+txn:
+  type: interval
+  before: {"start":"20200409T142434Z","tags":["hack","linux"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200409T142434Z","end":"20200409T142508Z","tags":["hack","linux"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200413T160912Z"}
+txn:
+  type: interval
+  before: {"start":"20200413T160912Z"}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200413T160912Z","end":"20200413T160924Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200413T164557Z","tags":["English HW"]}
+txn:
+  type: interval
+  before: {"start":"20200413T164557Z","tags":["English HW"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200413T164557Z","end":"20200413T171406Z","tags":["English HW"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200415T223126Z","tags":["Spanish HW"]}
+txn:
+  type: interval
+  before: {"start":"20200415T223126Z","tags":["Spanish HW"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200415T223126Z","end":"20200415T224234Z","tags":["Spanish HW"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200416T031228Z","tags":["Emails"]}
+txn:
+  type: interval
+  before: {"start":"20200416T031228Z","tags":["Emails"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200416T031228Z","end":"20200416T032030Z","tags":["Emails"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200416T032821Z","tags":["Night Grooving"]}
+txn:
+  type: interval
+  before: {"start":"20200416T032821Z","tags":["Night Grooving"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200416T032821Z","end":"20200416T160000Z","tags":["Night Grooving"]}
+txn:
+  type: interval
+  before: {"start":"20200416T032821Z","end":"20200416T160000Z","tags":["Night Grooving"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200416T032821Z","end":"20200416T040000Z","tags":["Night Grooving"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200416T130000Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200416T130000Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200416T130000Z","end":"20200416T154802Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200416T130000Z","end":"20200416T154802Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200416T130000Z","end":"20200416T154802Z","tags":["School","remove"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200417T151134Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200416T130000Z","end":"20200416T154802Z","tags":["School","remove"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200416T130000Z","end":"20200416T154802Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200417T151134Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200417T151134Z","end":"20200417T183041Z","tags":["School"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200418T035332Z","tags":["Night Grooving"]}
+txn:
+  type: interval
+  before: {"start":"20200418T035332Z","tags":["Night Grooving"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200418T035332Z","end":"20200418T064844Z","tags":["Night Grooving"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200420T004321Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T004321Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T004321Z","end":"20200420T031327Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T004321Z","end":"20200420T024327Z","tags":["School"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200420T032014Z","tags":["Night Grooving"]}
+txn:
+  type: interval
+  before: {"start":"20200420T032014Z","tags":["Night Grooving"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T032014Z","end":"20200420T061105Z","tags":["Night Grooving"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200420T154047Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T154047Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T154047Z","end":"20200420T154057Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T154047Z","end":"20200420T154057Z","tags":["School"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200420T130000Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T130000Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T130000Z","end":"20200420T154134Z","tags":["School"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200420T195742Z","tags":["School"]}
+txn:
+  type: interval
+  before: {"start":"20200420T195742Z","tags":["School"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200420T195742Z","end":"20200420T212920Z","tags":["School"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200429T172736Z","tags":["Bandit"]}
+txn:
+  type: interval
+  before: {"start":"20200429T172736Z","tags":["Bandit"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200429T172736Z","end":"20200429T185632Z","tags":["Bandit"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200429T185658Z","tags":["typing"]}
+txn:
+  type: interval
+  before: {"start":"20200429T185658Z","tags":["typing"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200429T185658Z","end":"20200430T205509Z","tags":["typing"]}
